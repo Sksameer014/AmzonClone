@@ -6,7 +6,7 @@
 .navbar{
     height: 10%;
     width: 100%;
-    background-color:black;
+    background-color: black;
     color: white;
     display: flex;
     align-items: center;
@@ -97,7 +97,7 @@
     .navbar{
         height: 10%;
         width: 100%;
-        background-color:black;
+        background-color:rgb(73, 66, 66);
         color: white;
         display: flex;
         align-items: center;
