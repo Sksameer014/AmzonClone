@@ -6,7 +6,7 @@
 .navbar{
     height: 10%;
     width: 100%;
-    background-color:rgb(73, 66, 66);
+    background-color:black;
     color: white;
     display: flex;
     align-items: center;
@@ -608,7 +608,7 @@ ul a{
 }
 .f-p3{
     height: 100px;
-    background-color: #2c3738;
+    background-color: black;
     color: white;
     border-top: 0.5px solid white;
     display: flex;
@@ -630,7 +630,7 @@ ul a{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(39, 38, 38);
+    background-color: black;
 }
 .f-p4{
     height: 50%;
